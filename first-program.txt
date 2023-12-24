@@ -1,3 +1,5 @@
+This is for me to remeber :) you can skip steps 1-3 
+
 1. In the terminal, run go mod init <appname> to initialize a new module.
 2. Create a file named main.go in your project folder
 3. In main.go, we will write the code for our application.
