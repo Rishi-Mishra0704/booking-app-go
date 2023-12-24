@@ -1,0 +1,14 @@
+1. In the terminal, run go mod init <appname> to initialize a new module.
+2. Create a file named main.go in your project folder
+3. In main.go, we will write the code for our application.
+
+4. In the terminal, run 
+
+    ```bash
+    go run main.go 
+    ```
+
+to compile the program.
+
+5. It will create a <appname>.exe file in project folder.
+6. Run the <appname>.exe file to see the output.
